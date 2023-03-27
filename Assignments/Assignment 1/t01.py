@@ -5,20 +5,14 @@
 Author:  Matteo Passalent
 ID:      210597410
 Email:   pass7410@mylaurier.ca
-__updated__ = "2022-10-09"
+__updated__ = "2023-01-22"
 -------------------------------------------------------
 """
 
-sales = int(input('Enter the total sales: $'))
+from functions import clean_list
 
-TAX = 18.50
+values = [1, 2, 0, 1, 4, 1, 1, 2, 2, 5, 4,
+          3, 1, 3, 3, 4, 2, 4, 3, 1, 3, 0, 3, 0, 0]
 
-total = sales * (TAX / 100)
-
-print()
-print('Projected Tax Report')
-print('--------------------------')
-print(f'Total sales:   $ {sales:,.2f}')
-print(f"Annual tax:    % {TAX:,.2f}")
-print('--------------------------')
-print(f"Tax:           $  {total:,.2f}")
+clean_list(values)
+print(values)

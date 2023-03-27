@@ -1,0 +1,100 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Matteo Passalent
+ID:      210597410
+Email:   pass7410@mylaurier.ca
+Version: 2022-10-02
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+The book title is, "Learn Python in 21 Days".
+What's mine is mine, and what's yours is mine.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter your favourite food: Pizza
+Enter your favourite TV show: Star Trek
+
+I like to eat Pizza while watching Star Trek
+---
+Enter your favourite food: wings
+Enter your favourite TV show: the office
+
+I like to eat wings while watching the office
+----
+Enter your favourite food: fries
+Enter your favourite TV show: family guy
+
+I like to eat fries while watching family guy
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in inches: 68
+
+Length in m: 1.7271999999999998
+---
+Length in inches: 40
+
+Length in m: 1.016
+---
+Length in inches: 120
+
+Length in m: 3.048
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 pizza slice: $1
+Number of pizza slices: 3
+
+Total cost of 3 pizza slices: $ 3.00
+---
+Cost of 1 pizza slice: $1.50
+Number of pizza slices: 15
+
+Total cost of 15 pizza slices: $ 22.50
+---
+Cost of 1 pizza slice: $5
+Number of pizza slices: 7
+
+Total cost of 7 pizza slices: $ 35.00
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: $1000
+Interest (decimal): 0.05
+Number of years: 20
+Number of times interest compounded per year: 12
+
+Balance: $2712.6402854819885
+---
+Principal: $120
+Interest (decimal): 0.1
+Number of years: 10
+Number of times interest compounded per year: 365
+
+Balance: $326.14914654923666
+---
+Principal: $150
+Interest (decimal): 0.2
+Number of years: 1
+Number of times interest compounded per year: 2
+
+Balance: $181.50000000000003
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

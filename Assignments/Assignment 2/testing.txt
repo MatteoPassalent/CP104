@@ -1,0 +1,136 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Matteo Passalent
+ID:      210597410
+Email:   pass7410@mylaurier.ca
+Version: 2022-10-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $32000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 32,000.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  5,920.00
+--------------------------------------------------------
+Enter the total sales: $213214123
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 213,214,123.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  39,444,612.76
+--------------------------------------------------------
+Enter the total sales: $12
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 12.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  2.22
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 25
+
+The product of the digits of 25 is 10
+-------------------------------------------------------
+Enter a positive digit number: 55
+
+The product of the digits of 55 is 25
+-------------------------------------------------------
+Enter a positive digit number: 78
+
+The product of the digits of 78 is 56
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 25101962
+
+The reformatted date: 1962/10/25
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 09040001
+
+The reformatted date: 0001/04/09
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 30192014
+
+The reformatted date: 2014/19/30
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of pieces of cake: 12
+Number of party-goers: 5
+
+Each party-goer receives 2 pieces of cake
+Pieces of cake that won’t be distributed: 2
+-------------------------------------------------------
+Number of pieces of cake: 1241
+Number of party-goers: 14
+
+Each party-goer receives 88 pieces of cake
+Pieces of cake that won’t be distributed: 9
+--------------------------------------------------------
+Number of pieces of cake: 1
+Number of party-goers: 1
+
+Each party-goer receives 1 pieces of cake
+Pieces of cake that won’t be distributed: 0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 4
+Foundation width (m): 2
+Foundation height (m): 0.6
+Wall height (m): 2.5
+Cost of concrete ($/m^3): 125
+Cost of bricks ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+--------------------------------------------------------
+Foundation length (m): 6
+Foundation width (m): 12
+Foundation height (m): 53
+Wall height (m): 66
+Cost of concrete ($/m^3): 4
+Cost of bricks ($/m^2): 13
+
+Concrete needed for foundation (m^3): 3816.00
+Cost of concrete: $15,264.00
+Bricks needed for walls (m^2): 2376.00
+Cost of bricks: $30,888.00
+Total cost: $46,152.00
+-------------------------------------------------------
+Foundation length (m): 9
+Foundation width (m): 1
+Foundation height (m): 231
+Wall height (m): 54
+Cost of concrete ($/m^3): 84932
+Cost of bricks ($/m^2): 1
+
+Concrete needed for foundation (m^3): 2079.00
+Cost of concrete: $176,573,628.00
+Bricks needed for walls (m^2): 1080.00
+Cost of bricks: $1,080.00
+Total cost: $176,574,708.00
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
